@@ -4,7 +4,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/rcpbrkguzel" target="blank"><img src="https://img.shields.io/twitter/follow/rcpbrkguzel?logo=twitter&style=for-the-badge" alt="rcpbrkguzel" /></a> </p>
+<p align="left">  </p>
 
 - 🔭 I’m currently working on **E-Commerce App**
 
