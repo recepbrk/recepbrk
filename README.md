@@ -20,6 +20,8 @@
 
 <h3 align="left">My Latest Medium Posts</h3>
 
+- [Kotlinde Infix ve Extension Fonksiyonları](https://medium.com/@recepgzelr/kotlinde-infix-ve-extension-fonksiyonlar%C4%B1-a6cffcc58534)
+
 - [Kotlin’de Kontrol Yapıları ve Döngüler](https://medium.com/@recepgzelr/kotlinde-kontrol-yap%C4%B1lar%C4%B1-ve-d%C3%B6ng%C3%BCler-29b21a3cd3fa)
 
 
