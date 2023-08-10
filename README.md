@@ -6,7 +6,7 @@
 
 <p align="left">  </p>
 
-- 🔭 I’m currently working on **Crypto App**
+- 🔭 I’m currently working on **Kotlin**
 
 - 🌱 I’m currently learning **Android Development**
 
