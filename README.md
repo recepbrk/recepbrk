@@ -21,11 +21,13 @@
 <h3 align="left">My Latest Medium Posts</h3>
 
 
-![Alt text here](https://nodejs-medium-fetcher.vercel.app/?username=recepgzelr&limit=5&responseType=svg)(https://medium.com/@recepgzelr)
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=recepbrk&show_icons=true&locale=en&layout=compact" alt="recepbrk" /></p>
+- [Kotlinde Scope Fonksiyonlar](https://medium.com/@recepgzelr/kotlin-de-scope-fonksiyonlar-7648efcb8b07)
 
+- [Kotlin’de Null Safety (Null Güvenliği)](https://medium.com/@recepgzelr/kotlinde-null-g%C3%BCvenli%C4%9Fi-c2f8edf54923)
+
+- [Kotlin’de Sınıf Yapısı ve Erişim Belirleyiciler](https://medium.com/@recepgzelr/kotlinde-s%C4%B1n%C4%B1f-yap%C4%B1s%C4%B1-ve-eri%C5%9Fim-belirleyiciler-13ba01d37c58)
 
 
