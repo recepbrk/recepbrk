@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Recep</h1>
 <h3 align="center">Junior Android Developer Türkiye</h3>
-<img align ="right" alt="Coding" width="400" src="https://media1.giphy.com/media/10mzF0YmVmZNuw/giphy.gif?cid=ecf05e47bm9rd84rg10aeeferzk9iq236aec9xozf91givnw&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+<img align ="right" alt="Coding" width="400" src="https://media1.tenor.com/m/SyyBm8FdDSUAAAAC/android-update.gif"
 
 
 
