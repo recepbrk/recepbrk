@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Recep</h1>
-<h3 align="center">Junior Android Developer Türkiye</h3>
+<h3 align="center"> Android Developer Türkiye</h3>
 <img align ="right" alt="Coding" width="400" src="https://i.imgur.com/dIvW5Sh.png"
 
 
