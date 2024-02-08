@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Recep</h1>
 <h3 align="center"> Android Developer Türkiye</h3>
-<img align ="right" alt="Coding" width="400" src="https://i.gifer.com/UiFO.mp4"
+<img align ="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/2346px-Android_logo_2019_%28stacked%29.svg.png"
 
 
 
