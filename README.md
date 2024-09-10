@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Recep</h1>
 <h3 align="center"> Android Developer Türkiye</h3>
-<img align ="right" alt="Coding" width="400" src="https://www.gameartguppy.com/wp-content/uploads/2018/02/mascot-kotlin_androidhead.png"
+
 
 
 
